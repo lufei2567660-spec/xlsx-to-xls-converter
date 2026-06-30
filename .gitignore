@@ -1,0 +1,27 @@
+# Build outputs
+publish/
+bin/
+obj/
+
+# IDE
+.vs/
+*.sln.docstates
+*.user
+*.suo
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Test files
+*.xls
+*.xlsx
+
+# Git
+.git/
+
+# Temp files
+# (don't ignore temp folders - they're auto-generated with GUIDs)
+
+# Logs
+*.log
